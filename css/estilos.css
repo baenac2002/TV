@@ -1,0 +1,58 @@
+li {list-style:none;}
+
+h4 {
+    color: red  ;
+    font-weight: bold;
+}
+.dailyevent {
+    background-color: #EEEEEE;
+	margin: 10px;} 
+	
+.title-section-widget{ 
+padding: 8px 8px 3px 3px;
+    color: white  ;
+    background-color: #000000;}
+	
+strong{
+margin: 10px 3px 30px 5px;
+    font-family: Arial;
+    font-size: 150%;
+	font-weight: bold;}
+	
+div{
+	float: left;
+}
+
+.dailytime{   
+	text-align: center;
+    font-family: Arial;
+    font-size: 100%;
+	font-weight: normal;
+    background-color: #AAAAAA; 
+	}
+	
+.dailyday {color: #EEEEEE;}
+.dailyhour {
+    font-size: 100%;
+	font-weight: normal;}
+	 
+	
+.icon-futbol::after { content: '\A'; white-space: pre;}
+.icon-futbol_sala::after { content: '\A'; white-space: pre;}
+.icon-baloncesto::after { content: '\A'; white-space: pre;}
+.icon-golf::after { content: '\A'; white-space: pre;}
+.icon-rugby::after { content: '\A'; white-space: pre;}
+.icon-motor::after { content: '\A'; white-space: pre;}
+.dailyday::after { content: '\A\A'; white-space: pre; }
+.dailyhour::after { content: '\A ESPACIADO \A'; color: #AAAAAA; white-space: pre; } 
+
+.dailycompetition{ 
+	margin: 10px;
+	color: #999999; 
+	font-weight: normal;}
+	
+.dailyteams{ color: #000000; 
+			font-weight: bold;}
+	
+.dailychannel{ margin: 10px;} 
+
