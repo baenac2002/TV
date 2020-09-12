@@ -57,7 +57,8 @@ div{
 .dailychannel{ margin: 10px;} 
 
 .container {
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-  width: 100% !important;
+  padding-left: 0;
+  padding-right: 0;
+  width: 100%;
 }
+body{width:100%;}
