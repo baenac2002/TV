@@ -45,6 +45,6 @@ https://storage.googleapis.com/dailst1/20/20.m3u8
 https://storage.googleapis.com/dailst1/21/21.m3u8  
 #EXTINF:-1 tvg-id="dailySport22.es" tvg-name="ES: DAILYSPORT 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D22 
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/dee781d7ced94b7faef12da10aacc590/chunklist.m3u8
-#EXTINF:-1 tvg-id="dailySport17.es" tvg-name="ES: DAILYSPORT 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D17
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/5bd658e2c07a4d1f90dcf3c227bbf056/chunklist.m3u8
+#EXTINF:-1 tvg-id="dailySport25.es" tvg-name="ES: DAILYSPORT 25" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D25
+https://storage.googleapis.com/dailst1/25/25.m3u8
  
