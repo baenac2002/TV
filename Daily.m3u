@@ -1,45 +1,45 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="dailySport0.es" tvg-name="ES: DAILYSPORT 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D0 Giro
 http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
-#EXTINF:-1 tvg-id="dailySport1.es" tvg-name="ES: DAILYSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D1 Champions Madrid 
-https://cdn1.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-id="dailySport2.es" tvg-name="ES: DAILYSPORT 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D2 Champions Atleti 
-https://cdn1.dailysport.pw/2/2.m3u8
-#EXTINF:-1 tvg-id="dailySport3.es" tvg-name="ES: DAILYSPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D3  
-https://cdn1.dailysport.pw/3/3.m3u8  
-#EXTINF:-1 tvg-id="dailySport4.es" tvg-name="ES: DAILYSPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D4 Champions Inter
-https://cdn1.dailysport.pw/4/4.m3u8     
-#EXTINF:-1 tvg-id="dailySport5.es" tvg-name="ES: DAILYSPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D5 Champions Liverpool
-https://cdn1.dailysport.pw/5/5.m3u8     
-#EXTINF:-1 tvg-id="dailySport6.es" tvg-name="ES: D6 Smartbank" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D6 Champions City
-https://cdn1.dailysport.pw/6/6.m3u8     
+#EXTINF:-1 tvg-id="dailySport1.es" tvg-name="ES: DAILYSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D1 Champions  
+https://storage.googleapis.com/dailyseg1/1/1.m3u8
+#EXTINF:-1 tvg-id="dailySport2.es" tvg-name="ES: DAILYSPORT 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D2 Champions  
+https://storage.googleapis.com/dailyseg1/2/2.m3u8
+#EXTINF:-1 tvg-id="dailySport3.es" tvg-name="ES: DAILYSPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D3 Champions
+https://storage.googleapis.com/dailyseg1/3/3.m3u8  
+#EXTINF:-1 tvg-id="dailySport4.es" tvg-name="ES: DAILYSPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D4 Champions 
+https://storage.googleapis.com/dailyseg1/4/4.m3u8     
+#EXTINF:-1 tvg-id="dailySport5.es" tvg-name="ES: DAILYSPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D5 Champions 
+https://storage.googleapis.com/dailyseg1/5/5.m3u8     
+#EXTINF:-1 tvg-id="dailySport6.es" tvg-name="ES: D6 Smartbank" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D6 Champions 
+https://storage.googleapis.com/dailyseg1/6/6.m3u8     
 #EXTINF:-1 tvg-id="dailySport7.es" tvg-name="ES: D7 Smartbank" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D7 SmartBank
-https://cdn1.dailysport.pw/7/7.m3u8    
+https://storage.googleapis.com/dailyseg1/7/7.m3u8    
 #EXTINF:-1 tvg-id="dailySport8.es" tvg-name="ES: DAILYSPORT 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D8 SmartBank
-https://cdn1.dailysport.pw/8/8.m3u8
+https://storage.googleapis.com/dailyseg1/8/8.m3u8
 #EXTINF:-1 tvg-id="dailySport9.es" tvg-name="ES: DAILYSPORT 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D9
-https://cdn1.dailysport.pw/9/9.m3u8    
+https://storage.googleapis.com/dailyseg1/9/9.m3u8    
 #EXTINF:-1 tvg-id="dailySport10.es" tvg-name="ES: DAILYSPORT 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D10 
-https://cdn1.dailysport.pw/10/10.m3u8
+https://storage.googleapis.com/dailyseg1/10/10.m3u8
 #EXTINF:-1 tvg-id="dailySport11.es" tvg-name="ES: DAILYSPORT 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D11   
-https://cdn1.dailysport.pw/11/11.m3u8
+https://storage.googleapis.com/dailyseg1/11/11.m3u8
 #EXTINF:-1 tvg-id="dailySport12.es" tvg-name="ES: DAILYSPORT 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D12 Champions
-https://cdn1.dailysport.pw/12/12.m3u8
+https://storage.googleapis.com/dailyseg1/12/12.m3u8
 #EXTINF:-1 tvg-id="dailySport13.es" tvg-name="ES: DAILYSPORT 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D13 Champions
-https://cdn1.dailysport.pw/13/13.m3u8   
+https://storage.googleapis.com/dailyseg1/13/13.m3u8   
 #EXTINF:-1 tvg-id="dailySport14.es" tvg-name="ES: DAILYSPORT 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D14 Champions
-https://cdn1.dailysport.pw/14/14.m3u8   
-#EXTINF:-1 tvg-id="dailySport15.es" tvg-name="ES: DAILYSPORT 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D15 
-https://cdn1.dailysport.pw/15/15.m3u8
+https://storage.googleapis.com/dailyseg1/14/14.m3u8   
+#EXTINF:-1 tvg-id="dailySport15.es" tvg-name="ES: DAILYSPORT 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D15 SmartBank
+https://storage.googleapis.com/dailyseg1/15/15.m3u8
 #EXTINF:-1 tvg-id="dailySport16.es" tvg-name="ES: DAILYSPORT 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D16 
-https://cdn1.dailysport.pw/16/16.m3u8   
+https://storage.googleapis.com/dailyseg1/16/16.m3u8   
 #EXTINF:-1 tvg-id="dailySport17.es" tvg-name="ES: DAILYSPORT 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D17 
-https://cdn1.dailysport.pw/17/17.m3u8 
+https://storage.googleapis.com/dailyseg1/17/17.m3u8 
 #EXTINF:-1 tvg-id="dailySport18.es" tvg-name="ES: DAILYSPORT 18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D18 
-https://cdn1.dailysport.pw/18/18.m3u8  
+https://storage.googleapis.com/dailyseg1/18/18.m3u8  
 #EXTINF:-1 tvg-id="dailySport19.es" tvg-name="ES: DAILYSPORT 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D19
-https://cdn1.dailysport.pw/19/19.m3u8   
+https://storage.googleapis.com/dailyseg1/19/19.m3u8   
 #EXTINF:-1 tvg-id="dailySport20.es" tvg-name="ES: DAILYSPORT 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D20 
-https://cdn1.dailysport.pw/20/20.m3u8    
+https://storage.googleapis.com/dailyseg1/20/20.m3u8    
 #EXTINF:-1 tvg-id="dailySport21.es" tvg-name="ES: DAILYSPORT 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D21 
-https://cdn1.dailysport.pw/21/21.m3u8   
+https://storage.googleapis.com/dailyseg1/21/21.m3u8   
