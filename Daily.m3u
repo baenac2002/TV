@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-id="dailySport0.es" tvg-name="ES: DAILYSPORT 0" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D0 Giro
 http://91.126.141.201:1935/live/eurosport2hdnntv/chunklist_w1420994503.m3u8
 #EXTINF:-1 tvg-id="dailySport1.es" tvg-name="ES: DAILYSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D1 La Liga  
-https://cdn.dailysport.pw/111/111.m3u8
+https://cdn1.dailysport.pw/1/1.m3u8
 #EXTINF:-1 tvg-id="dailySport2.es" tvg-name="ES: DAILYSPORT 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D2 La Liga  
-https://storage.googleapis.com/dailyseg1/2/2.m3u8
+https://cdn1.dailysport.pw/2/2.m3u8
 #EXTINF:-1 tvg-id="dailySport3.es" tvg-name="ES: DAILYSPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D3 La Liga
-https://storage.googleapis.com/dailyseg1/3/3.m3u8  
+https://cdn1.dailysport.pw/3/3.m3u8  
 #EXTINF:-1 tvg-id="dailySport4.es" tvg-name="ES: DAILYSPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D4 Premier 
 https://storage.googleapis.com/dailyseg1/epl1/1.m3u8     
 #EXTINF:-1 tvg-id="dailySport5.es" tvg-name="ES: DAILYSPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D5 Premier 
@@ -28,7 +28,7 @@ https://storage.googleapis.com/dailyseg1/12/12.m3u8
 #EXTINF:-1 tvg-id="dailySport13.es" tvg-name="ES: DAILYSPORT 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D13 Moto GP
 https://storage.googleapis.com/dailyseg1/13/13.m3u8   
 #EXTINF:-1 tvg-id="dailySport14.es" tvg-name="ES: DAILYSPORT 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D14 La Liga
-https://cdn.dailysport.pw/14/14.m3u8   
+https://cdn1.dailysport.pw/14/14.m3u8   
 #EXTINF:-1 tvg-id="dailySport15.es" tvg-name="ES: DAILYSPORT 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D15 Liga Campeones (ALE/FRA/ITA)
 https://storage.googleapis.com/dailyseg1/15/15.m3u8
 #EXTINF:-1 tvg-id="dailySport16.es" tvg-name="ES: DAILYSPORT 16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D16 
@@ -44,7 +44,7 @@ https://storage.googleapis.com/dailyseg1/20/20.m3u8
 #EXTINF:-1 tvg-id="dailySport21.es" tvg-name="ES: DAILYSPORT 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D21 SmartBank
 https://storage.googleapis.com/dailyseg1/21/21.m3u8     
 #EXTINF:-1 tvg-id="dailySport22.es" tvg-name="ES: DAILYSPORT 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D22 SmartBank
-https://storage.googleapis.com/dailyseg1/22/22.m3u8      
+https://cdn1.dailysport.pw/22/22.m3u8      
 #EXTINF:-1 tvg-id="dailySport23.es" tvg-name="ES: DAILYSPORT 23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D23 SmartBank
 https://storage.googleapis.com/dailyseg1/23/23.m3u8      
 #EXTINF:-1 tvg-id="dailySport24.es" tvg-name="ES: DAILYSPORT 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D24 
