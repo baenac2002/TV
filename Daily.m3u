@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="dailySport1.es" tvg-name="ES: DAILYSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D1 Madrid 
-https://akamai2-me.cdn.booyah.live/hls/113138/28757085.m3u8 
+https://sonyliveevents-nonssaime.akamaized.net:443/hls/live/2002929/LIV02UEFA/master_2828.m3u8?aka_me_session_id=AAAAAAAAAAD92JlfAAAAAMjXXNASO3%2fxoDUaKmXBeAX2Hd89+%2fm3WfZpV+0lPuJI0jx1jisIPz0o+NriJhgPK+T+2HNOuc2A 
 #EXTINF:-1 tvg-id="dailySport2.es" tvg-name="ES: DAILYSPORT 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D2 Atleti 
 https://sonyliveevents-nonssaime.akamaized.net:443/hls/live/2002929/LIV02UEFA/master_2828.m3u8?aka_me_session_id=AAAAAAAAAAD92JlfAAAAAMjXXNASO3%2fxoDUaKmXBeAX2Hd89+%2fm3WfZpV+0lPuJI0jx1jisIPz0o+NriJhgPK+T+2HNOuc2A
 #EXTINF:-1 tvg-id="dailySport3.es" tvg-name="ES: DAILYSPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D3 Champions Multi
