@@ -1,13 +1,13 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="dailySport1.es" tvg-name="ES: DAILYSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D1 Chelsea  
+#EXTINF:-1 tvg-id="dailySport1.es" tvg-name="ES: DAILYSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D1 Villareal y Real Sociedad
 https://cdn.dailysport.pw/1/1.m3u8
-#EXTINF:-1 tvg-id="dailySport2.es" tvg-name="ES: DAILYSPORT 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D2 PSG despues Sevilla 
+#EXTINF:-1 tvg-id="dailySport2.es" tvg-name="ES: DAILYSPORT 17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D2 AC Milan y Arsenal
 https://cdn.dailysport.pw/2/2.m3u8
-#EXTINF:-1 tvg-id="dailySport3.es" tvg-name="ES: DAILYSPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D3 Barsa
+#EXTINF:-1 tvg-id="dailySport3.es" tvg-name="ES: DAILYSPORT 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D3 Multi
 https://cdn.dailysport.pw/3/3.m3u8  
-#EXTINF:-1 tvg-id="dailySport4.es" tvg-name="ES: DAILYSPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D4 Manchester 
+#EXTINF:-1 tvg-id="dailySport4.es" tvg-name="ES: DAILYSPORT 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D4 Tottenham y Roma
 https://storage.googleapis.com/dailyseg2/epl1/1.m3u8     
-#EXTINF:-1 tvg-id="dailySport5.es" tvg-name="ES: DAILYSPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D5 Borusia	 
+#EXTINF:-1 tvg-id="dailySport5.es" tvg-name="ES: DAILYSPORT 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D5 	 
 https://cdn.dailysport.pw/5/5.m3u8     
 #EXTINF:-1 tvg-id="dailySport6.es" tvg-name="ES: D6 Smartbank" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D6  
 https://cdn.dailysport.pw/6/6.m3u8     
@@ -17,15 +17,15 @@ https://cdn.dailysport.pw/7/7.m3u8
 https://cdn.dailysport.pw/8/8.m3u8
 #EXTINF:-1 tvg-id="dailySport9.es" tvg-name="ES: DAILYSPORT 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D9
 https://cdn.dailysport.pw/9/9.m3u8    
-#EXTINF:-1 tvg-id="dailySport10.es" tvg-name="ES: DAILYSPORT 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D10 SmartBank
+#EXTINF:-1 tvg-id="dailySport10.es" tvg-name="ES: DAILYSPORT 10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D10 Smartbank
 https://cdn.dailysport.pw/10/10.m3u8
-#EXTINF:-1 tvg-id="dailySport11.es" tvg-name="ES: DAILYSPORT 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D11 SmartBank
+#EXTINF:-1 tvg-id="dailySport11.es" tvg-name="ES: DAILYSPORT 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D11 Smartbank
 https://cdn.dailysport.pw/11/11.m3u8
-#EXTINF:-1 tvg-id="dailySport12.es" tvg-name="ES: DAILYSPORT 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D12 Barsa
+#EXTINF:-1 tvg-id="dailySport12.es" tvg-name="ES: DAILYSPORT 12" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D12 
 https://cdn.dailysport.pw/12/12.m3u8
-#EXTINF:-1 tvg-id="dailySport13.es" tvg-name="ES: DAILYSPORT 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D13 Sevilla
+#EXTINF:-1 tvg-id="dailySport13.es" tvg-name="ES: DAILYSPORT 13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D13 Leicester
 https://cdn.dailysport.pw/13/13.m3u8   
-#EXTINF:-1 tvg-id="dailySport14.es" tvg-name="ES: DAILYSPORT 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D14 Borusia
+#EXTINF:-1 tvg-id="dailySport14.es" tvg-name="ES: DAILYSPORT 14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D14 
 https://cdn.dailysport.pw/14/14.m3u8   
 #EXTINF:-1 tvg-id="dailySport15.es" tvg-name="ES: DAILYSPORT 15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D15 
 https://cdn.dailysport.pw/15/15.m3u8
@@ -37,9 +37,9 @@ https://cdn.dailysport.pw/17/17.m3u8
 https://cdn.dailysport.pw/18/18.m3u8  
 #EXTINF:-1 tvg-id="dailySport19.es" tvg-name="ES: DAILYSPORT 19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D19
 https://cdn.dailysport.pw/19/19.m3u8   
-#EXTINF:-1 tvg-id="dailySport20.es" tvg-name="ES: DAILYSPORT 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D20 
+#EXTINF:-1 tvg-id="dailySport20.es" tvg-name="ES: DAILYSPORT 20" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D20 Leicester
 https://cdn.dailysport.pw/20/20.m3u8    
-#EXTINF:-1 tvg-id="dailySport21.es" tvg-name="ES: DAILYSPORT 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D21 Manchester
+#EXTINF:-1 tvg-id="dailySport21.es" tvg-name="ES: DAILYSPORT 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D21 
 https://cdn.dailysport.pw/21/21.m3u8     
 #EXTINF:-1 tvg-id="dailySport22.es" tvg-name="ES: DAILYSPORT 22" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="EVENTOS",ES: D22
 https://cdn.dailysport.pw/22/22.m3u8      
